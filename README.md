@@ -21,7 +21,7 @@
     - users:read:email
 - Create DB and import sleutelboer.sql    
 - Rename ```.env.example``` to ```.env``` and fill with your settings.
-- Make cronjob to domain.tld/cron.php for user data updating.
+- Make cronjob to ```domain.tld/cron.php``` for user data updating.
 
 ## Functions
 - Pipe webhooks from Keyhub to Slack.
